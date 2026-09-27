@@ -1,1 +1,11 @@
 # Managed via .venv inside GitHub Codespaces. See docs/decisions.md.
+
+[project]
+name = "kids-youtube-ai"
+version = "0.1.0"
+dependencies = [
+  "pydantic",
+  "python-dotenv",
+  "requests",
+  "pyyaml",
+]
