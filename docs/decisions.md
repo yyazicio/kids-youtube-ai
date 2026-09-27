@@ -24,3 +24,11 @@
 - Date: 2026-09-27.
 - Reversible: Yes.
 - Implementation status: Environment provisioning is blocked by Conda's SSL certificate and configured-proxy failures; no project environment or dependencies have been installed yet.
+
+## Codespaces migration
+- Decision: Moved project execution from local Windows machine to GitHub Codespaces, using a standard .venv instead of conda, and apt-installed FFmpeg instead of a portable Windows binary.
+- Alternatives considered: fixing local corporate proxy/SSL trust for pip and conda (rejected — required inspecting/modifying system security configuration outside the scope of a personal project on a company machine).
+- Reason: Codespaces provides unrestricted internet access and a clean Linux environment with no corporate network interference.
+- Cost: $0 (within GitHub Codespaces free monthly quota — 120 core-hours/month on personal accounts).
+- Date: 2026-09-27.
+- Reversible: Yes.

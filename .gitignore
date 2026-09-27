@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/*
+!output/.gitkeep
+assets/references/*
+!assets/references/.gitkeep
+*.mp4
+*.wav
+*.mp3
+.DS_Store
+node_modules/
+*.log
+tools/ffmpeg/*
+!tools/ffmpeg/.gitkeep
