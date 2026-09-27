@@ -1,0 +1,201 @@
+episode_id: ep001
+title: Kayıp Meşe Palamudu
+logline: When Fındık misplaces his winter acorn and tumbles into a neighbor's underground
+  burrow while searching, he learns that keeping things organized makes life much
+  easier.
+target_age: 5-8
+characters:
+- Fındık
+- Kestane
+copyright_check:
+  inspiration_type: original
+  skeleton_only: true
+  flagged_for_review: false
+  notes: Original story built from the established Fındıkdere Mahallesi universe;
+    no folklore or existing book plot used.
+scenes:
+- scene_id: s1
+  duration_seconds: 15
+  location: Orman
+  characters:
+  - Fındık
+  - Kestane
+  action: Fındık frantically digs through a heap of golden autumn leaves near the
+    mossy roots of an oak tree. Kestane waddles up with a tidy woven basket on his
+    arm.
+  dialogue:
+  - character: Fındık
+    line: It was right here! Or was it over there? Oh no, my favorite big shiny winter
+      acorn is gone!
+  - character: Kestane
+    line: Don't panic, Fındık. Did you make a mark or put it in a special spot?
+  narration: In the golden woods of Fındıkdere Mahallesi, winter was coming, but Fındık
+    had a tiny little problem.
+  visual_prompt: '2.5D storybook style, soft watercolor paper texture, warm golden-hour
+    lighting. A gentle forest floor covered in warm amber and olive-green autumn leaves.
+    In the foreground, mossy tree roots and a hollow tree trunk. Fındık: a small reddish-brown
+    squirrel with a big bushy tail, round friendly eyes, warm knit vest, expressive
+    eyebrows. Kestane: a round brown hedgehog with soft rounded spines, gentle warm
+    smile, carries a small woven basket.'
+  video_prompt: Slow horizontal tracking shot across the sun-dappled forest floor.
+    Leaves scatter playfully as Fındık burrows his nose into leaf piles, while Kestane
+    gently steps forward tilting his head curiously.
+  audio_notes: Rustling crisp dry leaves, playful marimba tune, curious hedgehog footsteps.
+  status: PENDING
+- scene_id: s2
+  duration_seconds: 15
+  location: Orman
+  characters:
+  - Fındık
+  - Kestane
+  action: Fındık tosses twigs and leaves in all directions, creating a messy pile
+    behind him. Kestane neatly stacks two fallen pinecones into his basket.
+  dialogue:
+  - character: Fındık
+    line: I just dropped it near a brown leaf! But wait... every leaf here is brown!
+  - character: Kestane
+    line: If you don't keep things in order, finding them turns into a guessing game.
+  narration: Looking without a plan only turned the peaceful path into a grand leaf
+    storm.
+  visual_prompt: '2.5D storybook art style, warm ochre and moss green tones with paper
+    cutout borders. Leaves float in mid-air amidst soft afternoon light beams filtering
+    through tall oak branches. Fındık: a small reddish-brown squirrel with a big bushy
+    tail, round friendly eyes, warm knit vest, expressive eyebrows. Kestane: a round
+    brown hedgehog with soft rounded spines, gentle warm smile, carries a small woven
+    basket.'
+  video_prompt: Medium shot. Fındık dramatically tosses leaf after leaf over his shoulder
+    in a comedic blur, while Kestane stands calmly beside a small, neat pile of acorns
+    in his basket.
+  audio_notes: Swooshing leaf sounds, comedic light woodblock percussion, whimsical
+    flute accent.
+  status: PENDING
+- scene_id: s3
+  duration_seconds: 15
+  location: Orman
+  characters:
+  - Fındık
+  - Kestane
+  action: Fındık spots a dark round hole under a tangled root. He leans forward on
+    tiptoe, wiggles his tail eagerly, and leans too far in.
+  dialogue:
+  - character: Fındık
+    line: Aha! A dark round hiding place! My acorn must be right down inside!
+  - character: Kestane
+    line: Wait, Fındık! Look before you leap!
+  narration: Fındık was sure he had found his secret pantry, but he forgot to check
+    whose door it was.
+  visual_prompt: '2.5D illustrated storybook aesthetic, gentle golden sunlight skimming
+    across earth-toned soil and exposed twisty tree roots. A deep shadowed tunnel
+    entrance framed by tiny pebbles. Fındık: a small reddish-brown squirrel with a
+    big bushy tail, round friendly eyes, warm knit vest, expressive eyebrows. Kestane:
+    a round brown hedgehog with soft rounded spines, gentle warm smile, carries a
+    small woven basket.'
+  video_prompt: Close-up tracking camera moving towards the burrow opening as Fındık's
+    feet slip. His arms windmill comedically before he slides downwards into the tunnel
+    in a puff of soft dust.
+  audio_notes: Slide whistle descending pitch, cute vocal squeak from Fındık, gentle
+    thud.
+  status: PENDING
+- scene_id: s4
+  duration_seconds: 15
+  location: Orman
+  characters:
+  - Fındık
+  - Kestane
+  action: Fındık drops down a dirt chute and lands upside down inside a neighbor's
+    underground root-cellar, balancing a pinecone right on the tip of his nose. Kestane
+    peeks down from the entrance hole above.
+  dialogue:
+  - character: Fındık
+    line: Whoaa-bump! Well... hello down here! This is definitely not my pantry!
+  - character: Kestane
+    line: Are you alright, Fındık? You just dropped right into the neighbor's pantry!
+  narration: Whoosh! Down the slide he went, landing in the tidiest underground room
+    in the whole neighborhood.
+  visual_prompt: '2.5D cutaway underground storybook view, cross-section with warm
+    earthy brown walls and soft lantern glow. Rows of neatly labeled wooden jars and
+    tiny wicker shelves filled with tidy berries and seeds. Fındık hangs upside down
+    in a soft cushioned basket. Fındık: a small reddish-brown squirrel with a big
+    bushy tail, round friendly eyes, warm knit vest, expressive eyebrows. Kestane:
+    a round brown hedgehog with soft rounded spines, gentle warm smile, carries a
+    small woven basket.'
+  video_prompt: Cutaway underground view. Fındık blinks with a pinecone perched on
+    his nose, giggles sheepishly, while Kestane smiles down from the sunlit tunnel
+    opening above.
+  audio_notes: Silly bounce sound effect, cozy subterranean ambient hum, light acoustic
+    guitar strums.
+  status: PENDING
+- scene_id: s5
+  duration_seconds: 15
+  location: Orman
+  characters:
+  - Fındık
+  - Kestane
+  action: Kestane extends a sturdy wooden stick down the tunnel to help Fındık climb
+    out. Fındık admires the tidy jars and organized baskets around the burrow before
+    climbing up.
+  dialogue:
+  - character: Fındık
+    line: Look how neat everything is down here! Every single seed has its own tiny
+      box!
+  - character: Kestane
+    line: Grab on! When everything has a proper home, you always know where to look.
+  narration: Seeing such a tidy burrow gave Fındık a wonderfully bright idea.
+  visual_prompt: '2.5D warm watercolor illustration, underground pantry cross-section
+    with golden rays reaching down through the tunnel shaft. Soft earth textures,
+    cozy roots, and neat miniature storage cubbies. Fındık: a small reddish-brown
+    squirrel with a big bushy tail, round friendly eyes, warm knit vest, expressive
+    eyebrows. Kestane: a round brown hedgehog with soft rounded spines, gentle warm
+    smile, carries a small woven basket.'
+  video_prompt: Slow tilt-up shot following Fındık as he grabs Kestane's stick and
+    scrambles back up into the sunlit meadow, dusting off his knit vest with a bright
+    smile.
+  audio_notes: Upbeat acoustic guitar chords, soft pat-pat sounds of dusting off clothes,
+    warm friendly chimes.
+  status: PENDING
+- scene_id: s6
+  duration_seconds: 15
+  location: Mahalle
+  characters:
+  - Fındık
+  - Kestane
+  action: Back in the neighborhood near a garden fence, Fındık happily places his
+    newly recovered acorn inside a neat hollow wooden crate labeled with a painted
+    acorn symbol, while Kestane nods approvingly.
+  dialogue:
+  - character: Fındık
+    line: There! One marked box for acorns, and one for seeds! No more wrong burrows
+      for me!
+  - character: Kestane
+    line: A tidy pantry makes for a very happy winter, dear friend.
+  narration: From that day on, Fındık never lost a single acorn again. Being organized
+    was the sweetest discovery of all.
+  visual_prompt: '2.5D warm storybook scene, golden-hour sunset over wooden garden
+    fences and flowering bushes in Fındıkdere Mahallesi. Soft paper grain overlay,
+    glowing amber light. A small painted wooden chest with an acorn emblem sits proudly
+    on a tree hollow shelf. Fındık: a small reddish-brown squirrel with a big bushy
+    tail, round friendly eyes, warm knit vest, expressive eyebrows. Kestane: a round
+    brown hedgehog with soft rounded spines, gentle warm smile, carries a small woven
+    basket.'
+  video_prompt: Medium wide shot slowly pulling back as Fındık and Kestane high-five
+    gently, warm sunset light bathing the peaceful neighborhood behind them.
+  audio_notes: Joyful concluding melody on glockenspiel and warm strings, cheerful
+    squirrel chuckle.
+  status: PENDING
+status: DRAFT_PENDING_REVIEW
+estimated_cost_usd: 0.0
+quality_score: null
+youtube_metadata:
+  title: Fındık's Lost Acorn | Fındıkdere Mahallesi
+  description: Fındık can't find his favorite winter acorn! After a funny tumble into
+    a neighboring burrow, he and his good friend Kestane discover the magic of keeping
+    things tidy and organized. A warm 2.5D storybook adventure for children ages 5-8.
+  tags:
+  - Findikdere Mahallesi
+  - kids animation
+  - storybook cartoon
+  - moral stories for kids
+  - being organized
+  - squirrel and hedgehog
+  - preschool stories
+  - calm animation for kids
