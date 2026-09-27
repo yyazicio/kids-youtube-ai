@@ -32,3 +32,11 @@
 - Cost: $0 (within GitHub Codespaces free monthly quota — 120 core-hours/month on personal accounts).
 - Date: 2026-09-27.
 - Reversible: Yes.
+
+## Original style-inspired content model
+- Decision: Adopted "style-inspired, fully original" content model — analyze general stylistic tendencies of established Turkish children's authors (kept as an internal-only reference, never public-facing) without copying any specific plot/character/text; created 10 original characters in a shared universe (Fındıkdere Mahallesi) and 12 pilot episode concepts.
+- Alternatives considered: adapting existing Turkish children's books directly (rejected — copyright risk under Turkish Law No. 5846, life+70 years protection); pure public-domain folklore only (kept as a secondary option, not primary).
+- Reason: legally clean path that still captures the tone/warmth/humor the user wanted, with full creative control and no licensing dependency.
+- Cost: $0.
+- Date: 2026-09-27.
+- Reversible: Yes.

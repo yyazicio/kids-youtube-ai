@@ -1,1 +1,102 @@
-# Character definitions will be added here.
+# 10 özgün ana karakter — Fındıkdere Mahallesi evreni
+characters:
+  - name: Fındık
+    age: 6
+    species: sincap
+    appearance: "kızıl-kahverengi tüylü, büyük kabarık kuyruklu"
+    traits: ["meraklı", "biraz sakar"]
+    strengths: ["gözlemcilik"]
+    flaws: ["sabırsızlık"]
+    friends: ["Kestane"]
+    favorites: ["fıstık toplamak", "soru sormak"]
+    one_liner: "Her şeyi merak eden, önce atlayıp sonra düşünen küçük bir sincap."
+  - name: Defne
+    age: 7
+    species: insan (kız çocuğu)
+    appearance: "örgülü saçlı, bahçıvan önlüklü"
+    traits: ["doğa aşığı", "bahçıvan"]
+    strengths: ["sabır", "bitki bilgisi"]
+    flaws: ["çok konuşkan"]
+    friends: ["Zeytin"]
+    favorites: ["tohum ekmek"]
+    one_liner: "Her bitkiyle konuşan, sabırlı küçük bir bahçıvan."
+  - name: Bulut
+    age: 5
+    species: köpek yavrusu
+    appearance: "beyaz-gri tüylü, büyük düşük kulaklı"
+    traits: ["ürkek", "sadık"]
+    strengths: ["sadakat"]
+    flaws: ["korkaklık"]
+    friends: ["Mercan"]
+    favorites: ["arkadaşlarını korumak"]
+    one_liner: "Küçük ama yürekli, herkesi koruma isteyen bir köpek yavrusu."
+  - name: Zeytin
+    age: 8
+    species: insan (erkek çocuk)
+    appearance: "dağınık saçlı, cebi aletlerle dolu tulum"
+    traits: ["mucit ruhlu"]
+    strengths: ["yaratıcılık"]
+    flaws: ["dikkatsizlik"]
+    friends: ["Nar"]
+    favorites: ["eski eşyalardan yeni şeyler yapmak"]
+    one_liner: "Elindeki her şeyi bir icada dönüştüren hayalperest bir çocuk."
+  - name: Nar
+    age: 6
+    species: insan (kız çocuğu)
+    appearance: "kıvırcık saçlı, rengarenk elbiseli"
+    traits: ["neşeli", "dansçı"]
+    strengths: ["neşe yayma"]
+    flaws: ["telaşlı"]
+    friends: ["Yasemin"]
+    favorites: ["yağmurda dans etmek"]
+    one_liner: "Her yere neşe getiren, dans etmeyi seven küçük bir kız."
+  - name: Kestane
+    age: 7
+    species: kirpi
+    appearance: "kahverengi dikenli, yuvarlak gövdeli"
+    traits: ["içine kapanık", "sadık dost"]
+    strengths: ["dinlemek"]
+    flaws: ["utangaçlık"]
+    friends: ["Fındık"]
+    favorites: ["arkadaşlarının hikâyelerini dinlemek"]
+    one_liner: "Az konuşan ama çok dinleyen, sadık bir kirpi."
+  - name: Mercan
+    age: 6
+    species: insan (kız çocuğu, balıkçı ailesinden)
+    appearance: "deniz mavisi kıyafetli, güneşten yanık tenli"
+    traits: ["cesur", "kâşif"]
+    strengths: ["cesaret"]
+    flaws: ["aceleci kararlar"]
+    friends: ["Bulut"]
+    favorites: ["göl kıyısında keşfe çıkmak"]
+    one_liner: "Gölün her köşesini bilen, cesur küçük bir kâşif."
+  - name: Ceviz
+    age: 5
+    species: tavşan
+    appearance: "gri tüylü, uzun kulaklı"
+    traits: ["unutkan", "şakacı"]
+    strengths: ["espri anlayışı"]
+    flaws: ["unutkanlık"]
+    friends: ["Toprak"]
+    favorites: ["şaka yapmak"]
+    one_liner: "Her şeyi unutan ama herkesi güldüren şakacı bir tavşan."
+  - name: Yasemin
+    age: 8
+    species: insan (kız çocuğu)
+    appearance: "uzun saçlı, örgü/el işi motifli kıyafetli"
+    traits: ["sabırlı", "büyükannesiyle yaşıyor"]
+    strengths: ["sabır", "incelik"]
+    flaws: ["fazla mükemmeliyetçi"]
+    friends: ["Defne"]
+    favorites: ["büyükannesinden hikâye dinlemek"]
+    one_liner: "Elleriyle güzel şeyler yapan, hikâye aşığı bir kız."
+  - name: Toprak
+    age: 7
+    species: köstebek
+    appearance: "koyu kahverengi, küçük gözlü"
+    traits: ["azimli", "kısa görüşlü (gerçek ve mecazi)"]
+    strengths: ["azim"]
+    flaws: ["yönünü şaşırma"]
+    friends: ["Zeytin"]
+    favorites: ["tüneller kazmak"]
+    one_liner: "Yer altında kaybolan ama asla pes etmeyen azimli bir köstebek."
